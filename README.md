@@ -64,4 +64,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-**Developed with ❤️ by [HamsyPG](https://github.com/YOUR_USER)**
+**Developed with ❤️ by [HAMSypg](https://github.com/HAMSypg)**
