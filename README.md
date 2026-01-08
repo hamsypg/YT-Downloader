@@ -35,7 +35,7 @@ Install the official **YT-Downloads Helper** from the [Microsoft Edge Add-ons St
 
 ### 2. Download the Desktop App
 - Go to the [Latest Releases](https://github.com/HAMSypg/YT-Downloader/releases/latest) page.
-- Download the `YT-Downloads-Pro.exe` file.
+- Download the `YT-Downloads.exe` file.
 - Run the application on your Windows PC.
 
 ### 3. Activate Smart Integration
