@@ -45,7 +45,7 @@ Once the app is open, click on **"Activate Smart Install"** (or **تفعيل ا�
 
 ## 🏗️ Technical Stack
 
-*   **Backend:** [Python 3.14](https://www.python.org/)
+*   **Backend:** [Python 3.13](https://www.python.org/)
 *   **Engine:** [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 *   **UI Framework:** [pywebview](https://pywebview.flowrl.com/) (HTML5/CSS3/JS)
 *   **Extension:** JavaScript (Manifest V3)
