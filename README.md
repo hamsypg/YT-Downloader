@@ -3,7 +3,7 @@
 **YT-Downloader** is a high-performance desktop suite designed to bridge the gap between your browser and professional-grade media extraction. No more tedious copy-pasting or low-quality web converters. Download anything from **4K Ultra-HD** videos to **Hi-Res MP3s** with a single click.
 
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
 
 ---
