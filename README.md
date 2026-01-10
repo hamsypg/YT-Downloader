@@ -24,7 +24,7 @@ Most web-based downloaders limit your speed and quality. **YT-Downloader** uses 
 Follow these 3 steps to set up your ultimate downloading station:
 
 ### 1️⃣ Download the App
-Go to the [Latest Releases](https://github.com/HAMSypg/YT-Downloader/releases/latest) page and download **`YT-Downloader.rar`** Extart it. 
+Go to the [Latest Releases](https://github.com/HAMSypg/YT-Downloader/releases/latest) page and download **`YT-Downloader.rar`** Extract it. 
 
 ### 2️⃣ Run & Initialize
 Launch the application **`YT-Downloader.exe`**. Upon the first run, the app will automatically extract its core resources (FFmpeg) to ensure you get the best quality possible. 
