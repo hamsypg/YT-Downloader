@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Why YT-Downloader v1.1?
+## ✨ Why YT-Downloader ?
 
 Most web-based downloaders limit your speed and quality. **YT-Downloader** now offers a **Standalone Zero-Config** experience:
 
