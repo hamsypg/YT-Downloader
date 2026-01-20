@@ -1,11 +1,25 @@
+<div align="center">
+
+<img width="1000" height="593" alt="Screenshot 2026-01-19 031929" src="https://github.com/user-attachments/assets/5cd69eb9-0cce-4852-86f7-42c6ba684c61" />
+
+<br/>
+
+[![GitHub Release](https://img.shields.io/github/v/release/HAMSypg/YT-Downloader?style=for-the-badge&color=blue)](https://github.com/HAMSypg/YT-Downloader/releases/latest)
+[![Edge Extension](https://img.shields.io/badge/Edge_Extension-Live-green?style=for-the-badge&logo=microsoft-edge)](https://microsoftedge.microsoft.com/addons/detail/ytdownloader/okgcpokhjnfacolahobcelijliajphli)
+[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-lightgrey?style=for-the-badge&logo=windows)](https://github.com/HAMSypg/YT-Downloader)
+<p>
+    <a href="https://github.com/hamsypg/YT-Downloader/releases/latest/download/YT-Downloader.exe">
+      <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-Click%20Here-success?style=for-the-badge&logo=windows&logoColor=white" alt="Download">
+    </a>
+  </p>
+
+
+</div>
+
 # 🚀 YT-Downloader: Ultra-HD Experience
 
 **YT-Downloader** is a high-performance desktop suite designed to bridge the gap between your browser and professional-grade media extraction. No more tedious copy-pasting or low-quality web converters. Download anything from **4K Ultra-HD** videos to **Hi-Res MP3s** with a single click.
-
-[![GitHub Release](https://img.shields.io/github/v/release/HAMSypg/YT-Downloader?style=for-the-badge&color=blue)](https://github.com/HAMSypg/YT-Downloader/releases/latest)
-[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-lightgrey?style=for-the-badge&logo=windows)](https://github.com/HAMSypg/YT-Downloader)
-[![Edge Extension](https://img.shields.io/badge/Edge_Extension-Live-green?style=for-the-badge&logo=microsoft-edge)](https://microsoftedge.microsoft.com/addons/detail/ytdownloader/okgcpokhjnfacolahobcelijliajphli)
 
 ---
 
