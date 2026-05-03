@@ -6,6 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-lightgrey?style=for-the-badge&logo=windows)](https://github.com/HAMSypg/YT-Downloader)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/HAMSypg/YT-Downloader?style=for-the-badge&color=blue)](https://github.com/HAMSypg/YT-Downloader/releases/latest)
+[![GitHub Pre-release](https://img.shields.io/github/v/release/HAMSypg/YT-Downloader?include_prereleases&style=for-the-badge&color=orange&label=pre-release)](https://github.com/HAMSypg/YT-Downloader/releases)
 
 <!-- BOTTOM: Download Button and Edge Extension -->
 [![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-Click%20Here-success?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/hamsypg/YT-Downloader/releases/latest/download/YT-Downloader.exe)
