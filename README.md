@@ -8,11 +8,11 @@
 [![GitHub Release](https://img.shields.io/github/v/release/HAMSypg/YT-Downloader?style=for-the-badge&color=blue)](https://github.com/HAMSypg/YT-Downloader/releases/latest)
 [![GitHub Pre-release](https://img.shields.io/github/v/release/HAMSypg/YT-Downloader?include_prereleases&style=for-the-badge&color=orange&label=pre-release)](https://github.com/HAMSypg/YT-Downloader/releases)
 
-<!-- CENTER: Download Button and Edge Extension -->
+<!-- BOTTOM: Download Button and Edge Extension and Donation Button -->
 [![Download](https://img.shields.io/badge/DOWNLOAD%20NOW-Click%20Here-success?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/hamsypg/YT-Downloader/releases/latest/download/YT-Downloader.exe)
 [![Edge Extension](https://img.shields.io/badge/Edge_Extension-Live-green?style=for-the-badge&logo=microsoft-edge)](https://microsoftedge.microsoft.com/addons/detail/ytdownloader/okgcpokhjnfacolahobcelijliajphli)
-<!-- BOTTOM: Donation Button -->
 [![Support My Work](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/72DQEVMAQVU58)
+
 
 </div>
 
