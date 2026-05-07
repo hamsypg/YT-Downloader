@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/348832b1-590f-4979-9298-bfff51c1100f" />
+</div>
+
 # YT-Downloader v1.2.7
 
 <div align="center">
