@@ -74,7 +74,7 @@ Download videos as **MP4** and audio as **MP3** automatically. No manual convers
 
 ### Latest Version: **v1.2.7** (Stable)
 
-**[⬇️ Download YT-Downloader.exe](https://github.com/hamsypg/YT-Downloader/releases)**
+**[⬇️ Download YT-Downloader.exe](https://github.com/hamsypg/YT-Downloader/releases/download/v1.2.7/YT-Downloader.exe)**
 
 **Requirements:**
 - Windows 7 or later
